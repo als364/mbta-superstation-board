@@ -10,13 +10,13 @@ This project requires [Python 3.6.3](https://www.python.org/downloads/) to be in
 
 The project uses [JQuery 3.2.1](https://code.jquery.com/jquery-3.2.1.js).
 
-### Usage
+## Usage
 
 From the commandline, navigate to the directory where this repo is cloned and run `python server.py`.
 
 Then, go to http://localhost:8000.
 
-### Potential Extensions
+## Potential Extensions
 
 * More than basic styling - coloring, outlines
 * Usability tweaks

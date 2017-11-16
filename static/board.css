@@ -1,0 +1,55 @@
+.content {
+	width: 100ch;
+	margin: auto;
+
+	font-family: 'Roboto Mono', monospace;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.title {
+	font-size: 1.5em;
+}
+
+.departures-table {
+	width: 100%;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+th {
+	text-align: left;
+}
+
+.time {
+	text-align: right;
+}
+
+.scheduled-time {
+	width: 9ch;
+}
+
+.origin {
+	width: 14ch;
+}
+
+.trip {
+	width: 5ch;
+}
+
+.destination {
+	width: 30ch;
+}
+
+.track {
+	width: 6ch;
+}
+
+.status {
+	width: 15ch;
+}
